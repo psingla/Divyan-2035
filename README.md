@@ -5,6 +5,7 @@ A space to explore interests, run experiments, build projects, and reflect on le
 ## Structure
 
 - [Philosophy](philosophy/learning-in-the-ai-era.md): principles for learning in the AI era.
+- [JEE 2028](JEE%202028/README.md): study routines, preparation advice, and resources for JEE alongside ALLEN coaching.
 - [Exploration tracks](exploration-tracks/): gaming, artificial intelligence, software development, robotics, creativity, and entrepreneurship.
 - [Experiments](experiments/): small, focused attempts to test ideas.
 - [Projects](projects/): turn promising experiments into working creations.
